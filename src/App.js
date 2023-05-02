@@ -39,7 +39,7 @@ function App() {
                   <p id="status-message"></p>
                 </div>
                 <form-element>
-                  <label for="name">Name</label>
+                  <label for="name">Nome</label>
                   <input type="text" name="name" id="name" />
                 </form-element>
                 <form-element>
